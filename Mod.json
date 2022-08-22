@@ -1,0 +1,17 @@
+{
+  "Name": "Mo1e",
+  "Author": "ppgHuman",
+  "Description": "This mod adds some thing",
+  "ModVersion": "1.0",
+  "GameVersion": "1.11",
+  "ThumbnailPath": "/assets/thumb.png",
+  "EntryPoint": "mo1e.mo1e",
+  "Tags": [
+    "Fun",
+    "Machine",
+    "Electronics"
+  ],
+  "Scripts": [
+    "script.cs"
+  ]
+}
